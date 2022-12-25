@@ -1,0 +1,15 @@
+/home/justronis/Developer/Projects/MeuControleFinanceiro/MeuControleFinanceiro/MeuControleFinanceiro/bin/Debug/net6.0/MeuControleFinanceiro
+/home/justronis/Developer/Projects/MeuControleFinanceiro/MeuControleFinanceiro/MeuControleFinanceiro/bin/Debug/net6.0/MeuControleFinanceiro.deps.json
+/home/justronis/Developer/Projects/MeuControleFinanceiro/MeuControleFinanceiro/MeuControleFinanceiro/bin/Debug/net6.0/MeuControleFinanceiro.runtimeconfig.json
+/home/justronis/Developer/Projects/MeuControleFinanceiro/MeuControleFinanceiro/MeuControleFinanceiro/bin/Debug/net6.0/MeuControleFinanceiro.dll
+/home/justronis/Developer/Projects/MeuControleFinanceiro/MeuControleFinanceiro/MeuControleFinanceiro/bin/Debug/net6.0/ref/MeuControleFinanceiro.dll
+/home/justronis/Developer/Projects/MeuControleFinanceiro/MeuControleFinanceiro/MeuControleFinanceiro/bin/Debug/net6.0/MeuControleFinanceiro.pdb
+/home/justronis/Developer/Projects/MeuControleFinanceiro/MeuControleFinanceiro/MeuControleFinanceiro/obj/Debug/net6.0/MeuControleFinanceiro.csproj.AssemblyReference.cache
+/home/justronis/Developer/Projects/MeuControleFinanceiro/MeuControleFinanceiro/MeuControleFinanceiro/obj/Debug/net6.0/MeuControleFinanceiro.GeneratedMSBuildEditorConfig.editorconfig
+/home/justronis/Developer/Projects/MeuControleFinanceiro/MeuControleFinanceiro/MeuControleFinanceiro/obj/Debug/net6.0/MeuControleFinanceiro.AssemblyInfoInputs.cache
+/home/justronis/Developer/Projects/MeuControleFinanceiro/MeuControleFinanceiro/MeuControleFinanceiro/obj/Debug/net6.0/MeuControleFinanceiro.AssemblyInfo.cs
+/home/justronis/Developer/Projects/MeuControleFinanceiro/MeuControleFinanceiro/MeuControleFinanceiro/obj/Debug/net6.0/MeuControleFinanceiro.csproj.CoreCompileInputs.cache
+/home/justronis/Developer/Projects/MeuControleFinanceiro/MeuControleFinanceiro/MeuControleFinanceiro/obj/Debug/net6.0/MeuControleFinanceiro.dll
+/home/justronis/Developer/Projects/MeuControleFinanceiro/MeuControleFinanceiro/MeuControleFinanceiro/obj/Debug/net6.0/ref/MeuControleFinanceiro.dll
+/home/justronis/Developer/Projects/MeuControleFinanceiro/MeuControleFinanceiro/MeuControleFinanceiro/obj/Debug/net6.0/MeuControleFinanceiro.pdb
+/home/justronis/Developer/Projects/MeuControleFinanceiro/MeuControleFinanceiro/MeuControleFinanceiro/obj/Debug/net6.0/MeuControleFinanceiro.genruntimeconfig.cache

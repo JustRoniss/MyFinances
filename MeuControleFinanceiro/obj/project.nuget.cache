@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tpY3GoMq/GvBJ3QZd47bQ9d9bq5QcRiK1hCvCce9LbSeW7pR9ZsmV2ozfelNKE0TENdzDnL/FajUJGfi4Czq0w==",
+  "success": true,
+  "projectFilePath": "/home/justronis/Developer/Projects/MeuControleFinanceiro/MeuControleFinanceiro/MeuControleFinanceiro/MeuControleFinanceiro.csproj",
+  "expectedPackageFiles": [
+    "/home/justronis/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.12/microsoft.aspnetcore.app.ref.6.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
