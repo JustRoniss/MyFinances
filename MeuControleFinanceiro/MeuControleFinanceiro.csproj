@@ -5,6 +5,16 @@
         <TargetFramework>net6.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
+        <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
     </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="MySql.Data" Version="8.0.31" />
+      <PackageReference Include="MySqlConnector" Version="2.2.4" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Remove="Dockerfile" />
+    </ItemGroup>
 
 </Project>

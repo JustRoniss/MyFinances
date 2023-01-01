@@ -15,7 +15,9 @@ public class Program
         }
         else
         {
-            Menus.Menus.MenuCapturarDadosFinanceiros();
+            Data.Data.ConnectionMySql();
+            Console.WriteLine("Conexão realiza com sucesso");
+
         }
         
 

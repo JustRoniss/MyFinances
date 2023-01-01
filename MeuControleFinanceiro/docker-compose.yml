@@ -1,0 +1,21 @@
+services:
+  mysql:
+    container_name: MySQL_MyFinances
+    image: mysql:latest
+    ports:
+      - '3308:3306'
+    expose:
+      - '3306'
+    networks:
+      - NetMyFinances
+    volumes:
+      - MyFinances:/var/lib/mysql
+    environment:
+      MYSQL_ROOT_PASSWORD: 'admin'
+      MYSQL_DATABASE: MyFinances
+      
+volumes:
+  MyFinances:
+networks:
+  NetMyFinances:
+    driver: bridge
